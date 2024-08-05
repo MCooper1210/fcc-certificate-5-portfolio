@@ -1,5 +1,9 @@
 # <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" width="30px"> freeCodeCamp - Certificate 5 - freeCodeCamp Portfolio
 
+Please open the following link to view the webpages in codesandbox.io:
+
+https://codesandbox.io/p/github/MCooper1210/fcc-certificate-5-portfolio
+
 This repository contains the index.html and styles.css for the fifth freeCodeCamp course certificate, a landing page. For this, I am collating three of my projects into a portfolio page, with links to my other projects.
 
 ## Description
